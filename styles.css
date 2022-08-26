@@ -10,3 +10,8 @@ h1 {
 p {
     color:dimgray;
 }
+
+form {
+    margin: 20px;
+    padding: 30px;
+}
